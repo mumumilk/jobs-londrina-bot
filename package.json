@@ -1,0 +1,19 @@
+{
+  "name": "londrina-jobs-bot",
+  "version": "1.0.0",
+  "description": "Slack bot to show londrina area avaliable jobs",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "slackbot",
+    "bot",
+    "job",
+    "londrina",
+    "parana",
+    "brazil"
+  ],
+  "author": "Samuel Koch",
+  "license": "MIT"
+}
