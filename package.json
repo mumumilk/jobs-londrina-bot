@@ -15,5 +15,10 @@
     "brazil"
   ],
   "author": "Samuel Koch",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.83.0",
+    "rss-parser": "^2.10.8",
+    "slackbots": "^1.1.0"
+  }
 }
